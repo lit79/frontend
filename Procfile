@@ -1,1 +1,1 @@
-web: npm i; npm i semver; node server.js
+web: node build/build.js ; vendor/bin/heroku-php-apache2
