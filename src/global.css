@@ -1,0 +1,8 @@
+@import url(http://uk.allfont.net/allfont.css?fonts=raleway-black);
+.view {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
